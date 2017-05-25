@@ -1,0 +1,28 @@
+{
+    "projectName": "Composite Score",
+    "username": "lpatino@mcf.org.partial",
+    "id": "81a45010-415e-11e7-bfc3-1daa88cf588a",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://mncouncil--Partial.cs52.my.salesforce.com",
+    "workspace": "/Users/luciano/Documents/MavensMate/workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AppMenu",
+        "CustomApplication",
+        "CustomApplicationComponent",
+        "CustomLabels",
+        "CustomMetadata",
+        "CustomObject",
+        "CustomTab",
+        "Dashboard",
+        "EmailTemplate",
+        "PermissionSet",
+        "Profile",
+        "StaticResource"
+    ]
+}
